@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>404 - 对不起，您查找的页面不存在！ -开发者工具网</title>
+		<link rel="stylesheet" href={{ url_for('static', filename='css/404.css')}} />
+	</head>
+	<body>
+		<div class="wrap">			
+			<img src={{ url_for('static', filename='img/404.jpg')}} alt="404" />
+			<p class="text1">纳尼！？肿么回事，啥！？</p>
+			<p class="text2">页面竟然找不到了！我和小伙伴都惊呆了 惊呆了呢……</p>	
+				<p class="text2"><span id="s"></span> <center>秒后系统为您自动跳转到首页。 </center></p>
+			<ul class="clearfix">
+				<li class="fl">
+					<a href="javascript:history.go(-1);">返回上一页</a>
+				</li>
+				<li class="fl last">
+					<a href="https://tool.zheergen-nobug.cn/unixtime">返回首页</a>
+				</li>
+			</ul>
+		</div>
+		 
+		<div class="Countdown" id="time">
+       	
+   </div>
+   
+<script>
+var s = 6;//倒计时多少秒
+function showtime(){	
+	document.getElementById('s').innerHTML = s;
+	s = s-1;	
+	if(s==0){
+		window.location="/";//倒计时结束跳转到
+	}
+}
+clearInterval(settime); 
+var settime = setInterval(function(){
+	showtime();
+},1000);
+</script>
+
+	</body>
+</html>

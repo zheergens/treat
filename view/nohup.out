@@ -1,0 +1,442 @@
+
+> d2-admin@1.8.0 dev /home/zheergen/admin/d2/view
+> npm run serve
+
+
+> d2-admin@1.8.0 serve /home/zheergen/admin/d2/view
+> vue-cli-service serve --open
+
+ INFO  Starting development server...
+Extracted theme color css content length: 21104
+ WARNING  Compiled with 2 warnings9:35:57 PM
+
+ warning  
+
+asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).
+This can impact web performance.
+Assets: 
+  js/chunk-vendors.21ad96e8.js (1.26 MiB)
+  image/theme/star/bg.jpg (359 KiB)
+  js/chunk-vendors.21ad96e8.js.gz (438 KiB)
+
+ warning  
+
+entrypoint size limit: The following entrypoint(s) combined asset size exceeds the recommended limit (244 KiB). This can impact web performance.
+Entrypoints:
+  app (1.69 MiB)
+      css/chunk-vendors.a151c465.css
+      js/chunk-vendors.21ad96e8.js
+      css/app.406c76e9.css
+      js/app.870bbc8c.js
+
+
+
+  App running at:
+  - Local:   http://localhost:8080/ 
+  - Network: http://192.168.1.66:8080/
+
+  App is served in production mode.
+  Note this is for preview or E2E testing only.
+
+ WAIT  Compiling...9:46:04 PM
+
+Extracted theme color css content length: 21104
+ WARNING  Compiled with 2 warnings9:46:13 PM
+
+ warning  
+
+asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).
+This can impact web performance.
+Assets: 
+  js/chunk-vendors.21ad96e8.js (1.26 MiB)
+  js/chunk-vendors.21ad96e8.js.gz (438 KiB)
+
+ warning  
+
+entrypoint size limit: The following entrypoint(s) combined asset size exceeds the recommended limit (244 KiB). This can impact web performance.
+Entrypoints:
+  app (1.69 MiB)
+      css/chunk-vendors.a151c465.css
+      js/chunk-vendors.21ad96e8.js
+      css/app.406c76e9.css
+      js/app.870bbc8c.js
+
+
+
+  App running at:
+  - Local:   http://localhost:8080/ 
+  - Network: http://192.168.1.66:8080/
+
+ WAIT  Compiling...9:46:15 PM
+
+Extracted theme color css content length: 21104
+ WARNING  Compiled with 2 warnings9:46:23 PM
+
+ warning  
+
+asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).
+This can impact web performance.
+Assets: 
+  js/chunk-vendors.21ad96e8.js (1.26 MiB)
+  js/chunk-vendors.21ad96e8.js.gz (438 KiB)
+
+ warning  
+
+entrypoint size limit: The following entrypoint(s) combined asset size exceeds the recommended limit (244 KiB). This can impact web performance.
+Entrypoints:
+  app (1.69 MiB)
+      css/chunk-vendors.a151c465.css
+      js/chunk-vendors.21ad96e8.js
+      css/app.406c76e9.css
+      js/app.870bbc8c.js
+
+
+
+  App running at:
+  - Local:   http://localhost:8080/ 
+  - Network: http://192.168.1.66:8080/
+
+ WAIT  Compiling...9:46:29 PM
+
+Extracted theme color css content length: 21104
+ WARNING  Compiled with 2 warnings9:46:37 PM
+
+ warning  
+
+asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).
+This can impact web performance.
+Assets: 
+  js/chunk-vendors.21ad96e8.js (1.26 MiB)
+  js/chunk-vendors.21ad96e8.js.gz (438 KiB)
+
+ warning  
+
+entrypoint size limit: The following entrypoint(s) combined asset size exceeds the recommended limit (244 KiB). This can impact web performance.
+Entrypoints:
+  app (1.69 MiB)
+      css/chunk-vendors.a151c465.css
+      js/chunk-vendors.21ad96e8.js
+      css/app.406c76e9.css
+      js/app.870bbc8c.js
+
+
+
+  App running at:
+  - Local:   http://localhost:8080/ 
+  - Network: http://192.168.1.66:8080/
+
+ WAIT  Compiling...9:47:23 PM
+
+Extracted theme color css content length: 21104
+ WARNING  Compiled with 2 warnings9:47:30 PM
+
+ warning  
+
+asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).
+This can impact web performance.
+Assets: 
+  js/chunk-vendors.21ad96e8.js (1.26 MiB)
+  js/chunk-vendors.21ad96e8.js.gz (438 KiB)
+
+ warning  
+
+entrypoint size limit: The following entrypoint(s) combined asset size exceeds the recommended limit (244 KiB). This can impact web performance.
+Entrypoints:
+  app (1.69 MiB)
+      css/chunk-vendors.a151c465.css
+      js/chunk-vendors.21ad96e8.js
+      css/app.406c76e9.css
+      js/app.870bbc8c.js
+
+
+
+  App running at:
+  - Local:   http://localhost:8080/ 
+  - Network: http://192.168.1.66:8080/
+
+ WAIT  Compiling...9:48:16 PM
+
+Extracted theme color css content length: 21104
+ WARNING  Compiled with 2 warnings9:48:25 PM
+
+ warning  
+
+asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).
+This can impact web performance.
+Assets: 
+  js/chunk-vendors.21ad96e8.js (1.26 MiB)
+  js/chunk-vendors.21ad96e8.js.gz (438 KiB)
+
+ warning  
+
+entrypoint size limit: The following entrypoint(s) combined asset size exceeds the recommended limit (244 KiB). This can impact web performance.
+Entrypoints:
+  app (1.69 MiB)
+      css/chunk-vendors.a151c465.css
+      js/chunk-vendors.21ad96e8.js
+      css/app.406c76e9.css
+      js/app.870bbc8c.js
+
+
+
+  App running at:
+  - Local:   http://localhost:8080/ 
+  - Network: http://192.168.1.66:8080/
+
+ WAIT  Compiling...9:48:36 PM
+
+Extracted theme color css content length: 21104
+ WARNING  Compiled with 2 warnings9:48:42 PM
+
+ warning  
+
+asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).
+This can impact web performance.
+Assets: 
+  js/chunk-vendors.21ad96e8.js (1.26 MiB)
+  js/chunk-vendors.21ad96e8.js.gz (438 KiB)
+
+ warning  
+
+entrypoint size limit: The following entrypoint(s) combined asset size exceeds the recommended limit (244 KiB). This can impact web performance.
+Entrypoints:
+  app (1.69 MiB)
+      css/chunk-vendors.a151c465.css
+      js/chunk-vendors.21ad96e8.js
+      css/app.406c76e9.css
+      js/app.870bbc8c.js
+
+
+
+  App running at:
+  - Local:   http://localhost:8080/ 
+  - Network: http://192.168.1.66:8080/
+
+ WAIT  Compiling...9:48:45 PM
+
+ ERROR  Failed to compile with 1 errors9:48:53 PM
+
+ error  in ./src/views/treat/prescription/index.vue?vue&type=script&lang=js&
+
+Syntax Error: SyntaxError: /home/zheergen/admin/d2/view/src/views/treat/prescription/index.vue: Unexpected token, expected "(" (324:9)
+
+  322 |       var messagex
+  323 |       var typex 
+> 324 |       if this.user_name === '' {
+      |          ^
+  325 |         messagex = '请输入信息'
+  326 |         typex = 'warning'
+  327 |       } else {
+
+
+ @ ./src/views/treat/prescription/index.vue?vue&type=script&lang=js& 1:0-388 1:404-407 1:409-794 1:409-794
+ @ ./src/views/treat/prescription/index.vue
+ @ ./src/views lazy ^\.\/.*$ namespace object
+ @ ./src/libs/util.import.production.js
+ @ ./src/router/routes.js
+ @ ./src/main.js
+ @ multi ./src/main.js @/mock
+
+
+> d2-admin@1.8.0 dev /home/zheergen/admin/d2/view
+> npm run serve
+
+
+> d2-admin@1.8.0 serve /home/zheergen/admin/d2/view
+> vue-cli-service serve --open
+
+ INFO  Starting development server...
+Extracted theme color css content length: 21104
+ WARNING  Compiled with 2 warnings9:52:26 PM
+
+ warning  
+
+asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).
+This can impact web performance.
+Assets: 
+  js/chunk-vendors.21ad96e8.js (1.26 MiB)
+  image/theme/star/bg.jpg (359 KiB)
+  js/chunk-vendors.21ad96e8.js.gz (438 KiB)
+
+ warning  
+
+entrypoint size limit: The following entrypoint(s) combined asset size exceeds the recommended limit (244 KiB). This can impact web performance.
+Entrypoints:
+  app (1.69 MiB)
+      css/chunk-vendors.a151c465.css
+      js/chunk-vendors.21ad96e8.js
+      css/app.406c76e9.css
+      js/app.76daa9ae.js
+
+
+
+  App running at:
+  - Local:   http://localhost:8080/ 
+  - Network: http://192.168.1.66:8080/
+
+  App is served in production mode.
+  Note this is for preview or E2E testing only.
+
+ WAIT  Compiling...10:06:22 PM
+
+Extracted theme color css content length: 21104
+ WARNING  Compiled with 2 warnings10:06:31 PM
+
+ warning  
+
+asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).
+This can impact web performance.
+Assets: 
+  js/chunk-vendors.21ad96e8.js (1.26 MiB)
+  js/chunk-vendors.21ad96e8.js.gz (438 KiB)
+
+ warning  
+
+entrypoint size limit: The following entrypoint(s) combined asset size exceeds the recommended limit (244 KiB). This can impact web performance.
+Entrypoints:
+  app (1.69 MiB)
+      css/chunk-vendors.a151c465.css
+      js/chunk-vendors.21ad96e8.js
+      css/app.406c76e9.css
+      js/app.76daa9ae.js
+
+
+
+  App running at:
+  - Local:   http://localhost:8080/ 
+  - Network: http://192.168.1.66:8080/
+
+ WAIT  Compiling...10:06:40 PM
+
+Extracted theme color css content length: 21104
+ WARNING  Compiled with 3 warnings10:06:51 PM
+
+Module Warning (from ./node_modules/eslint-loader/index.js):
+error: 'axios' is not defined (no-undef) at src/api/interviews/record/index.js:3:1:
+  1 | import request from '@/plugin/axios'
+  2 | 
+> 3 | axios.defaults.headers.post['Content-Type'] = 'application/x-www-form-urlencoded'
+    | ^
+  4 | 
+  5 | export function InterviewsRecord (data) {
+  6 |   return request({
+
+
+1 error found.
+
+You may use special comments to disable some warnings.
+Use // eslint-disable-next-line to ignore the next line.
+Use /* eslint-disable */ to ignore all warnings in a file.
+ warning  
+
+asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).
+This can impact web performance.
+Assets: 
+  js/chunk-vendors.21ad96e8.js (1.26 MiB)
+  js/chunk-vendors.21ad96e8.js.gz (438 KiB)
+
+ warning  
+
+entrypoint size limit: The following entrypoint(s) combined asset size exceeds the recommended limit (244 KiB). This can impact web performance.
+Entrypoints:
+  app (1.69 MiB)
+      css/chunk-vendors.a151c465.css
+      js/chunk-vendors.21ad96e8.js
+      css/app.406c76e9.css
+      js/app.ee6cd8f8.js
+
+
+
+  App running at:
+  - Local:   http://localhost:8080/ 
+  - Network: http://192.168.1.66:8080/
+
+
+> d2-admin@1.8.0 dev /home/zheergen/admin/d2/view
+> npm run serve
+
+
+> d2-admin@1.8.0 serve /home/zheergen/admin/d2/view
+> vue-cli-service serve --open
+
+ INFO  Starting development server...
+
+> d2-admin@1.8.0 dev /home/zheergen/admin/d2/view
+> npm run serve
+
+
+> d2-admin@1.8.0 serve /home/zheergen/admin/d2/view
+> vue-cli-service serve --open
+
+ INFO  Starting development server...
+Extracted theme color css content length: 21104
+ WARNING  Compiled with 2 warnings10:22:25 PM
+
+ warning  
+
+asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).
+This can impact web performance.
+Assets: 
+  js/chunk-vendors.21ad96e8.js (1.26 MiB)
+  image/theme/star/bg.jpg (359 KiB)
+  js/chunk-vendors.21ad96e8.js.gz (438 KiB)
+
+ warning  
+
+entrypoint size limit: The following entrypoint(s) combined asset size exceeds the recommended limit (244 KiB). This can impact web performance.
+Entrypoints:
+  app (1.69 MiB)
+      css/chunk-vendors.a151c465.css
+      js/chunk-vendors.21ad96e8.js
+      css/app.406c76e9.css
+      js/app.65951e4f.js
+
+
+
+  App running at:
+  - Local:   http://localhost:8080/ 
+  - Network: http://192.168.1.66:8080/
+
+  App is served in production mode.
+  Note this is for preview or E2E testing only.
+
+
+> d2-admin@1.8.0 dev /home/zheergen/admin/d2/view
+> npm run serve
+
+
+> d2-admin@1.8.0 serve /home/zheergen/admin/d2/view
+> vue-cli-service serve --open
+
+ INFO  Starting development server...
+Extracted theme color css content length: 21104
+ WARNING  Compiled with 2 warnings8:07:54 PM
+
+ warning  
+
+asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).
+This can impact web performance.
+Assets: 
+  js/chunk-vendors.21ad96e8.js (1.26 MiB)
+  image/theme/star/bg.jpg (359 KiB)
+  js/chunk-vendors.21ad96e8.js.gz (438 KiB)
+
+ warning  
+
+entrypoint size limit: The following entrypoint(s) combined asset size exceeds the recommended limit (244 KiB). This can impact web performance.
+Entrypoints:
+  app (1.69 MiB)
+      css/chunk-vendors.a151c465.css
+      js/chunk-vendors.21ad96e8.js
+      css/app.406c76e9.css
+      js/app.45c75c30.js
+
+
+
+  App running at:
+  - Local:   http://localhost:8080/ 
+  - Network: http://192.168.1.66:8080/
+
+  App is served in production mode.
+  Note this is for preview or E2E testing only.
+
